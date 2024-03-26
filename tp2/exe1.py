@@ -1,0 +1,8 @@
+x, y = set('abcd'), set('sbds')
+print("X =", x)
+print(len(x))
+print("y =", y)
+print('c' in x)
+print('a' in y)
+print(x-y)
+print(y-x)
